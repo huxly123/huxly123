@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huxly Gerard Singh A</h1>
-<h3 align="center">Building interactive, real-life projects and contributing to the tech community</h3>
+<h3 align="center">Proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them. .Building interactive, real-life projects and contributing to the tech community.Love to dance and participated in many western dance competitions</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huxly123" alt="huxly123" /></a> </p>
 
