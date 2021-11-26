@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=huxly123.huxly123)
 
 </p>
-<div size='20px'> Hi! My name is Huxly Singh. Thank You for taking the time to view my GitHub Profile :smile:.Proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community. Love to dance and participated in many western dance competitions
+<div size='20px'> Hi! My name is Huxly Singh. Thank You for taking the time to view my GitHub Profile :smile:.I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community. Love to dance and participated in many western dance competitions
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
