@@ -3,11 +3,7 @@
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=huxly123.huxly123)
-
-</p>
 <div size='20px'> Hi! My name is Huxly Singh. Thank You for taking the time to view my GitHub Profile :smile:.I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community. Love to dance and participated in many western dance competitions
 </div>
 
