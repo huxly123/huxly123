@@ -12,11 +12,6 @@
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 
 
-
-
-- 🌱 I’m currently learning MERN stack
-
-
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
 - 💬 Talk to me about Javascript , Reactjs , Algorithms 
